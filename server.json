@@ -3,8 +3,17 @@
   "name": "com.superboutdoorco/site",
   "title": "PeakRoam Wholesale Outdoor Event Infrastructure Database",
   "description": "PeakRoam guides on bulk buying event chairs, tables, canopies, tents and campground gear",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "websiteUrl": "https://superboutdoorco.com",
+  "icons": [
+    {
+      "src": "https://superboutdoorco.com/images/peakroam/favicon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
   "remotes": [
     {
       "type": "streamable-http",
