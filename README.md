@@ -1,5 +1,7 @@
 # PeakRoam MCP server
 
+[![PeakRoam MCP connector](https://glama.ai/mcp/connectors/com.superboutdoorco/site/badges/score.svg)](https://glama.ai/mcp/connectors/com.superboutdoorco/site)
+
 **Answers bulk-buying questions on event chairs, tables, canopies, tents and campground gear for US rental companies, campgrounds and FBA sellers.**
 
 A free, public [MCP](https://modelcontextprotocol.io) server from [PeakRoam](https://superboutdoorco.com?utm_source=github&utm_medium=readme&utm_campaign=mcp): **PeakRoam Wholesale Outdoor Event Infrastructure Database**. Connect it to ChatGPT, Claude or another AI assistant and it answers from PeakRoam's published guides and articles, citing the page each answer comes from.
