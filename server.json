@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.superboutdoorco/site",
+  "title": "PeakRoam Wholesale Outdoor Event Infrastructure Database",
+  "description": "PeakRoam guides on bulk buying event chairs, tables, canopies, tents and campground gear",
+  "version": "1.1.1",
+  "websiteUrl": "https://superboutdoorco.com",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://superboutdoorco.com/mcp"
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/YangzhenRuan/peakroam-mcp",
+    "source": "github"
+  }
+}

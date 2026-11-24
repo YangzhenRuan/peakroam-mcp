@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "peakroam": {
+      "type": "http",
+      "url": "https://superboutdoorco.com/mcp"
+    }
+  }
+}
